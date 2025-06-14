@@ -51,43 +51,14 @@ A simple, clean, and fun **Tic-Tac-Toe game** built using HTML, CSS, and JavaScr
 
 
 
-📦 Built With
-HTML5
-
-CSS3
-
-JavaScript (Vanilla)
-
-
+📦 Built With HTML5 , CSS3 , JavaScript 
 
 
 
 
 ✍️ Author
 Lingareddy Tejaswar Reddy
-
 📧 Email: tejaswar2004@gmail.com
-
 🌐 GitHub: @tejaswar2004
-
-
-
-
-
-
-
-💡 Future Improvements
-Add sound effects 🎵
-
-Show player names on the board
-
-Add AI mode (vs computer) 🤖
-
-Theme toggle (Dark/Light mode)
-
-
-
-    
-
 
 
