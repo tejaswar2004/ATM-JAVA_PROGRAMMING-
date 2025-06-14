@@ -21,17 +21,13 @@ A simple, clean, and fun **Tic-Tac-Toe game** built using HTML, CSS, and JavaScr
 ---
 
 ## 📂 Project Structure
-```bash
-TIC_TOC_TOE_Game/
-├── index.html          # Main HTML file
-├── style.css           # Styling
-├── app.js              # Game logic (turns, win, draw)
-├── player-setup.js     # Script to input player names (optional)
-├── README.md           # You’re reading it!
 
-
-
-
+      TIC_TOC_TOE_Game/
+      ├── index.html          # Main HTML file
+      ├── style.css           # Styling
+      ├── app.js              # Game logic (turns, win, draw)
+      ├── player-setup.js     # Script to input player names (optional)
+      ├── README.md           # You’re reading it!
 
 
 
